@@ -1,12 +1,1 @@
-Starting out with the initial stage of HNG 11 internship program, I analysed a retail vehicle sales dataset obtained from Kaggle. 
-This analysis aims to provide a preliminary review of the dataset to identify key patterns, trends, and provide insights for potential further analysis.
 
-Data Overview
-The dataset comprises 2,823 entries and includes a variety of data fields such as order number, quantity ordered, price, order line number, sales, order date, status etc. As obtained from Kaggle, the dataset contains information about a company involved in the retail sale of various vehicles, including classic cars, motorcycles, planes, ships, trains, trucks and buses, and vintage cars which spans between the year 2003 to 2005.
-Data Integrity and Anomalies: Review shows that there are no duplicate data set.
-
-Product Analysis
-The year 2004 has the highest number of vehicles sold, with a total of 1,345 units.
-Among the vehicle categories, classic cars are the most shipped, with a total of 425 units in 2004.
-There is a noticeable increase in the number of vehicles sold from 2003 to 2004, indicating a significant rise in demand or sales volume during that period. However,the year 2005 shows strike decline in volume of sales.
-#Screenshot 2024-10-08 025554.png
